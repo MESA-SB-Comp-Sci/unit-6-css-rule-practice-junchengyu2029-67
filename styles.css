@@ -1,0 +1,23 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+    
+}
+
+main {
+    background-color: blueviolet;
+}
+   
+
+footer{
+    background-image:url(assets/sunset-by-sebastien-gabriel-via-unsplash.jpg);
+}
+p {
+    color:white;
+    text-align: center;
+    text-shadow: 0cap;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+
+}
